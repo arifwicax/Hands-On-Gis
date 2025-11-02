@@ -1,1 +1,1 @@
-# Hands-On-Gis
+# Hands-On-GIS
